@@ -1,1 +1,5 @@
 # team-condellera
+What if there was a way to connect travelers with locals who were willing to show them around and offer insider tips? What if there was a platform that could help travelers find local guide and travel partners and facilitate cultural exchange?
+Here is our social media app designed for travelers who are looking to connect with like-minded individuals and explore new destinations together. Whether you're a solo traveler or part of a group, our app offers a platform for tourists to find local tour guides who can show them around and provide a personalized experience of the city or town they are visiting.
+The app is designed to help people find these secret spots, meaning that it relies on the knowledge and expertise of its community members to uncover the best-kept secrets of a place. 
+Our app is all about promoting responsible tourism and encourages users to support local businesses and communities. With our app, you can make meaningful connections with people from all over the world and contribute to a more positive and impactful travel industry.
